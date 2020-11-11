@@ -1,7 +1,4 @@
 /*
- *	jQuery elevateZoom 3.0.8
- *	Demo's and documentation:
- *	www.elevateweb.co.uk/image-zoom
  *
  *	Copyright (c) 2012 Andrew Eades
  *	www.elevateweb.co.uk
@@ -12,10 +9,6 @@
  *
 
 /*
- *	jQuery elevateZoom 3.0.3
- *	Demo's and documentation:
- *	www.elevateweb.co.uk/image-zoom
- *
  *	Copyright (c) 2012 Andrew Eades
  *	www.elevateweb.co.uk
  *
