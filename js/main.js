@@ -141,7 +141,7 @@
                 featureType: 'water',
                 elementType: 'geometry.fill',
                 stylers: [{
-                    color: '#faae8a'
+                    color: '#1d3557'
                 }]
             }, {
                 featureType: 'road',
@@ -159,19 +159,19 @@
                 featureType: 'road.highway',
                 elementType: 'geometry',
                 stylers: [{
-                    color: '#faae8a'
+                    color: '#1d3557'
                 }]
             }, {
                 featureType: 'poi.park',
                 elementType: 'geometry',
                 stylers: [{
-                    color: '#faae8a'
+                    color: '#1d3557'
                 }]
             }, {
                 featureType: 'poi.park',
                 elementType: 'labels.text.fill',
                 stylers: [{
-                    color: '#faae8a'
+                    color: '#1d3557'
                 }]
             }];
             var options = {

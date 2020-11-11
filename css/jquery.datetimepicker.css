@@ -252,7 +252,7 @@
 .xdsoft_datetimepicker .xdsoft_label > .xdsoft_select.xdsoft_yearselect{ right: 2px }
 .xdsoft_datetimepicker .xdsoft_label > .xdsoft_select > div > .xdsoft_option:hover {
 	color: #fff;
-	background: #faae8a;
+	background: #1d3557;
 }
 
 .xdsoft_datetimepicker .xdsoft_label > .xdsoft_select > div > .xdsoft_option {
@@ -322,11 +322,11 @@
 
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_highlighted_default {
 	background: #ffe9d2;
-	box-shadow: #faae8a 0 1px 4px 0 inset;
+	box-shadow: #1d3557 0 1px 4px 0 inset;
 	color: #000;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_highlighted_mint {
-	background: #faae8a;
+	background: #1d3557;
 	box-shadow: #2A2731 0 1px 4px 0 inset;
 	color: #000;
 }
@@ -356,7 +356,7 @@
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div:hover {
 	color: #fff !important;
-	background: #faae8a !important;
+	background: #1d3557 !important;
 	box-shadow: none !important;
 }
 
@@ -450,8 +450,8 @@
 }
 
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_label > .xdsoft_select > div > .xdsoft_option.xdsoft_current {
-	background: #faae8a;
-	box-shadow: #faae8a 0 1px 3px 0 inset;
+	background: #1d3557;
+	box-shadow: #1d3557 0 1px 3px 0 inset;
 	color: #000;
 }
 
@@ -474,16 +474,16 @@
 }
 
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_calendar td.xdsoft_today {
-	color: #faae8a;
+	color: #1d3557;
 }
 
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_calendar td.xdsoft_highlighted_default {
 	background: #ffe9d2;
-	box-shadow: #faae8a 0 1px 4px 0 inset;
+	box-shadow: #1d3557 0 1px 4px 0 inset;
 	color:#000;
 }
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_calendar td.xdsoft_highlighted_mint {
-	background: #faae8a;
+	background: #1d3557;
 	box-shadow: #2A2731 0 1px 4px 0 inset;
 	color:#000;
 }
@@ -491,8 +491,8 @@
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker.xdsoft_dark .xdsoft_timepicker .xdsoft_time_box >div >div.xdsoft_current {
-	background: #faae8a;
-	box-shadow: #faae8a 0 1px 3px 0 inset;
+	background: #1d3557;
+	box-shadow: #1d3557 0 1px 3px 0 inset;
 	color: #000;
 }
 

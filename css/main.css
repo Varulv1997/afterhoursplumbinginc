@@ -29,12 +29,12 @@
  */
 
 ::-moz-selection {
-    background: #faae8a;
+    background: #1d3557;
     text-shadow: none;
 }
 
 ::selection {
-    background: #faae8a;
+    background: #1d3557;
     text-shadow: none;
 }
 
